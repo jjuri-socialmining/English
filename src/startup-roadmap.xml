@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T16:25:59.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="9sbaNtrUdDHkHv-xYN8n" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T16:28:16.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="vboX20GhCpQQ-AKE7Jwq" version="15.6.2" type="github">
   <diagram id="v25uxJT5XtO4L2ixLZPM" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4" value="Template Roadmap 2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=16;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="4" value="StartUp Roadmap 2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="273.5" y="30" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Legends" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
@@ -38,11 +38,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="190" width="130" height="20" as="geometry" />
+        <mxCell id="17" value="Research" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="347" y="160" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="18" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="215" width="130" height="20" as="geometry" />
+          <mxGeometry x="1080" y="260" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="20" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="240" width="130" height="20" as="geometry" />
@@ -1819,6 +1819,12 @@
               <mxPoint x="273" y="1427" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hCsClbsouoWqVkkM9tUm-191" value="&lt;h1 style=&quot;margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; font-size: 28px; vertical-align: baseline; background: 0px 0px; color: rgb(0, 0, 0); font-family: &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span class=&quot;emoji&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 28px ; vertical-align: baseline ; background: 0px 0px ; font-weight: 400 ; font-family: &amp;quot;apple color emoji&amp;quot; , &amp;quot;segoe ui emoji&amp;quot; , &amp;quot;noto color emoji&amp;quot; , &amp;quot;android emoji&amp;quot; , &amp;quot;emojisymbols&amp;quot; , &amp;quot;emojione mozilla&amp;quot; , &amp;quot;twemoji mozilla&amp;quot; , &amp;quot;segoe ui symbol&amp;quot;&quot;&gt;í ½í²¡&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374.5" y="100" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCsClbsouoWqVkkM9tUm-192" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: verdana; font-size: 10px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Idea&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="110" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
