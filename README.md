@@ -1,18 +1,6 @@
 # React Developer Roadmap
 
-[README in Chinese](README-CN.md)
-
-[README in Japanese](README-JA.md)
-
-[README in Korean](README-KO.md)
-
-[README in Portuguese (Brazil)](README-PTBR.md)
-
-[README in Russian](README-RU.md)
-
-[README in Spanish](README-ES.md)
-
-> Roadmap to becoming a React developer in 2019:
+> Roadmap to becoming a bilingual in 2021:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a React developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a React developer?"
 
@@ -172,14 +160,5 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
 
-## Contribution
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `/src` directory. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png).
 
-- Open a pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-
-## License
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
