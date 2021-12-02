@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T00:25:28.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QbVgCIRhw_9YPJAdqg_H" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T00:37:16.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="BZXNQ0cLkLIRj-t_gEJu" version="15.8.8" type="github">
   <diagram id="v25uxJT5XtO4L2ixLZPM" name="Page-1">
     <mxGraphModel dx="1426" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1915,8 +1915,8 @@
         <mxCell id="ipbPaEguHGPoIUJOZ1i4-232" value="Colores" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="75" y="217.5" width="45" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="ipbPaEguHGPoIUJOZ1i4-234" value="Relacionar lo que esta estudiando&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="50" y="260" width="92.5" height="35" as="geometry" />
+        <mxCell id="ipbPaEguHGPoIUJOZ1i4-234" value="Relacionar lo que esta estudiando con las materias del colegio / trabajo" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="50" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ipbPaEguHGPoIUJOZ1i4-235" value="Hacer creer que esta aprendiendo" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="50" y="350" width="140" height="40" as="geometry" />
